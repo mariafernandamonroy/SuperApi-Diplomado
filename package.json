@@ -1,0 +1,16 @@
+{
+  "name": "api-superheroes",
+  "version": "1.0.0",
+  "description": "Una super aplicacion ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "MaFeMonroy",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^0.17.0",
+    "server": "^1.0.37"
+  }
+}
